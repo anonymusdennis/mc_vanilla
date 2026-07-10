@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "description": "Ultimate Survival client pack index (git blob SHAs)",
+  "files": [
+    {
+      "path": "mods/DistantHorizons-3.1.2-b-1.21.1-fabric-neoforge.jar",
+      "sha1": "6a5d23ed8b0b4d470566753e7057468c3589283a",
+      "size": 30140037
+    },
+    {
+      "path": "mods/Jade-1.21.1-NeoForge-15.10.5.jar",
+      "sha1": "81136533410738a5f39e3f2a9e0911b838953369",
+      "size": 725742
+    },
+    {
+      "path": "mods/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+      "sha1": "09b23981ef8479dcac5b5caccf0e5c707e8cd761",
+      "size": 74419
+    },
+    {
+      "path": "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "sha1": "4028d08b552bce4838992c630c0fc5fbd3743e7f",
+      "size": 75804
+    },
+    {
+      "path": "mods/architectury-13.0.8-neoforge.jar",
+      "sha1": "eb846ef528f0fb37994a91a45849293d69bd8e5f",
+      "size": 584004
+    },
+    {
+      "path": "mods/balm-neoforge-1.21.1-21.0.60.jar",
+      "sha1": "f646fe48fcfb7dad8feb69156d25ff5f28a79f1a",
+      "size": 744121
+    },
+    {
+      "path": "mods/ferritecore-7.0.3-neoforge.jar",
+      "sha1": "a2d53841440dc5d7b86a683087fb06aad5b5482a",
+      "size": 121559
+    },
+    {
+      "path": "mods/ftb-chunks-neoforge-2101.1.14.jar",
+      "sha1": "1015fa8a450996883c20e9c35de7db92a1d03d60",
+      "size": 642340
+    },
+    {
+      "path": "mods/ftb-library-neoforge-2101.1.31.jar",
+      "sha1": "efb14d19b0e01938ed9358ee2df106b9295b6651",
+      "size": 1411181
+    },
+    {
+      "path": "mods/ftb-teams-neoforge-2101.1.10.jar",
+      "sha1": "ab07249a8a94f218e1ebb19c04b96a06b31bbab1",
+      "size": 302712
+    },
+    {
+      "path": "mods/jei-1.21.1-neoforge-19.27.0.340.jar",
+      "sha1": "8ff59a0b937cccb4ad82af0274a334a5502d55b5",
+      "size": 1529391
+    },
+    {
+      "path": "mods/packsync-1.0.0.jar",
+      "sha1": "64c0fb8e0f92aea802dc80688a27521addc88245",
+      "size": 33796
+    }
+  ]
+}
