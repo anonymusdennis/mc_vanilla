@@ -1,12 +1,14 @@
 # Ultimate Survival — Client Pack (Git source of truth)
 
-This repository is the **client modpack** tracked by [PackSync](https://github.com/anonymusdennis/packsync).  
+This repository is the **client modpack** tracked by PackSync.  
 Push changes here; players see a diff on game start and can apply updates.
+
+**Minecraft 26.2** / NeoForge 26.2 — requires **Java 25** on the client.
 
 ## Layout
 
 ```
-mods/           Official optional/client mods (Jade, AppleSkin, Distant Horizons, etc.)
+mods/           Official optional/client mods (Distant Horizons, etc.)
 config/         Shared client configs
 defaultconfigs/
 pack-manifest.json   Auto-generated file index (git blob SHAs)
@@ -22,10 +24,6 @@ pack-manifest.json   Auto-generated file index (git blob SHAs)
 ## Custom player mods
 
 Jars in `mods/` that are **not** in this repo are treated as player-installed and are **never** removed or updated.
-
-## Distant Horizons
-
-Optional client-only LOD mod. Place the NeoForge 1.21.1 jar in `mods/` when you want it in the official pack.
 
 ## Server
 
