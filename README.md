@@ -17,7 +17,7 @@ Push changes here; players with PackSync installed see a diff on game start and 
 | **Shaders** | Sodium + Iris + 118 shader packs |
 | **Inventory** | Inventory Sorter (button only, no hotkeys) |
 | **Crafting** | Crafting Tweaks (rotate / balance / clear) |
-| **Recipes** | JEI + WorldGen, Trades, Professions, Enchantment Info, Serverless Recipes |
+| **Recipes** | JEI + WorldGen, Trades, Professions, Serverless Recipes |
 | **Claims UI** | Open Parties and Claims (optional map overlay) |
 | **LOD** | Distant Horizons (match server) |
 | **Perf** | FerriteCore |

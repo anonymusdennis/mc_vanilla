@@ -1,0 +1,3 @@
+#Fri Feb 14 12:05:08 GMT 2025
+TONEMAPPING=0
+FOG=false
