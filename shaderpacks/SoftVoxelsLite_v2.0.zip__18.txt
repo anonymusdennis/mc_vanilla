@@ -1,0 +1,5 @@
+#Sat Jul 11 14:04:20 CEST 2026
+CLOUD_PLANE0_ENABLED=false
+SSPT_Enabled=false
+godraysEnabled=false
+motionblurToggle=false

@@ -1,0 +1,4 @@
+#Sat Jul 11 14:02:47 CEST 2026
+CELSHADING=true
+NightDarknessLevel=1.0
+ndeSat=30.0

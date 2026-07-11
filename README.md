@@ -17,6 +17,7 @@ Push changes here; players with PackSync installed see a diff on game start and 
 | **Shaders** | Sodium + Iris + 118 shader packs |
 | **Inventory** | Inventory Sorter (button only, no hotkeys) |
 | **Crafting** | Crafting Tweaks (rotate / balance / clear) |
+| **Craft from nearby chests** | QuickStack & Craft (JEI **[+]** pulls from nearby chests; client-only) |
 | **Recipes** | JEI + WorldGen, Trades, Professions, Serverless Recipes |
 | **Claims UI** | Open Parties and Claims (optional map overlay) |
 | **LOD** | Distant Horizons (match server) |
@@ -45,6 +46,13 @@ pack-manifest.json Auto-generated file index (git blob SHAs)
 ## Custom player mods
 
 Jars in `mods/` that are **not** in this repo are treated as player-installed and are **never** removed or updated.
+
+### QuickStack & Craft (client-only)
+
+Patched from upstream 1.21.4 for MC 26.2 (`scripts/patch-quickstack-26.2.sh`). **Not installed on the server** — vanilla clients can still join.
+
+- **Singleplayer / open-to-LAN (you host):** full quick-stack + JEI craft-from-nearby
+- **Ultimate Survival multiplayer:** craft-from-nearby needs the server to handle chest scans; with client-only install, use quick-stack in your inventory and craft at a table from what you carry — or add the same jar to the server later if you want full MP support
 
 ## Server
 

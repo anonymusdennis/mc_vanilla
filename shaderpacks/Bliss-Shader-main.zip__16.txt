@@ -1,0 +1,7 @@
+#Thu Oct 09 20:30:59 EDT 2025
+LPV_SIZE=6
+OLD_LIGHTLEAK_FIX=true
+CloudLayer0_height=500
+CloudLayer1_height=1000
+WATER_WAVE_STRENGTH=0.5
+TONEMAP=ToneMap_Hejl2015
