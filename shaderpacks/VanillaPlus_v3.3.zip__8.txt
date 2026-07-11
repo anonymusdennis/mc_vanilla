@@ -1,0 +1,4 @@
+#Sun Mar 08 12:06:50 CET 2026
+brightnessInt=0.5
+UseLightleakPrevention=true
+ssaoEnabled=true

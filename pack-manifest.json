@@ -38,6 +38,11 @@
       "size": 1044032
     },
     {
+      "path": "mods/cloth-config-26.2.155.jar",
+      "sha1": "a96a637a95145a71a8c1fb7964341765fb9e39bf",
+      "size": 1135847
+    },
+    {
       "path": "mods/craftingtweaks-neoforge-26.2-26.2.0.2.jar",
       "sha1": "f218fb1994d23019678252f6668b2a4ea8bced3c",
       "size": 266803
@@ -63,9 +68,9 @@
       "size": 2751198
     },
     {
-      "path": "mods/jei-26.2-neoforge-30.9.0.57.jar",
-      "sha1": "76177ee14399346265fd9567232650fd6cefcdbc",
-      "size": 1626235
+      "path": "mods/jei-26.2-neoforge-30.10.0.59.jar",
+      "sha1": "2ae6456140a58ebb342f7288c57b80db365c423f",
+      "size": 1630004
     },
     {
       "path": "mods/jeitrades-neoforge-26.2-1.2.0.jar",
@@ -86,6 +91,11 @@
       "path": "mods/justzoom_neoforge_2.1.5_MC_26.2.jar",
       "sha1": "9322d20f9108d8421a56924b97fbc737b4e1ff92",
       "size": 65460
+    },
+    {
+      "path": "mods/konkrete_neoforge_1.11.1_MC_26.2.jar",
+      "sha1": "d91837b03029b3c75b4c9207ad7defc8a1095d9d",
+      "size": 580739
     },
     {
       "path": "mods/more-enchantment-info-0.4.2.jar",
@@ -218,6 +228,16 @@
       "size": 196
     },
     {
+      "path": "shaderpacks/Bliss-Shader-main.zip__8.txt",
+      "sha1": "b269a7d40acd8bfb7020e3161aa90006158462c9",
+      "size": 167
+    },
+    {
+      "path": "shaderpacks/Bliss-Shader-main.zip__9.txt",
+      "sha1": "280139b2d9a68c83de871da6c7eac19f46707497",
+      "size": 196
+    },
+    {
       "path": "shaderpacks/Bliss-Shader-main__2.zip",
       "sha1": "04b82e67dd7fc6f523230f4a4ecb58da416fc08a",
       "size": 1743451
@@ -229,6 +249,11 @@
     },
     {
       "path": "shaderpacks/Bliss-Shader-main__4.zip",
+      "sha1": "04b82e67dd7fc6f523230f4a4ecb58da416fc08a",
+      "size": 1743451
+    },
+    {
+      "path": "shaderpacks/Bliss-Shader-main__5.zip",
       "sha1": "04b82e67dd7fc6f523230f4a4ecb58da416fc08a",
       "size": 1743451
     },
@@ -318,6 +343,11 @@
       "size": 45
     },
     {
+      "path": "shaderpacks/ComplementaryReimagined_r5.5.1.zip__5.txt",
+      "sha1": "c7f9e84d4d544d063593f2101da52dff69fba2b3",
+      "size": 45
+    },
+    {
       "path": "shaderpacks/ComplementaryReimagined_r5.6.1.zip",
       "sha1": "211e647c443a5c15821486e7e894391fec7ace70",
       "size": 500696
@@ -331,6 +361,16 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.6.1.zip__10.txt",
       "sha1": "7d800162f6c07ba3cf8d044b18d4a618f5ef73f4",
       "size": 197
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.6.1.zip__11.txt",
+      "sha1": "fc9c53f7d1f3c651698f7b6d148cac51ce2c9c5c",
+      "size": 1166
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.6.1.zip__12.txt",
+      "sha1": "565d15c9f5188ad95a62b0c680f36501201f1cc7",
+      "size": 1166
     },
     {
       "path": "shaderpacks/ComplementaryReimagined_r5.6.1.zip__2.txt",
@@ -423,6 +463,11 @@
       "size": 236
     },
     {
+      "path": "shaderpacks/ComplementaryUnbound_r5.1.1.zip__5.txt",
+      "sha1": "d1be27e99d3776aa5684612342a184c53ce85fca",
+      "size": 236
+    },
+    {
       "path": "shaderpacks/ComplementaryUnbound_r5.2.1.zip.txt",
       "sha1": "da3d78605c63e1de0563d97f68210f57f0b00391",
       "size": 44
@@ -489,6 +534,16 @@
     },
     {
       "path": "shaderpacks/CyanideShaders_v1.1.zip__7.txt",
+      "sha1": "b356eddd12f584c7c7074166b81c75fba9c0d60c",
+      "size": 57
+    },
+    {
+      "path": "shaderpacks/CyanideShaders_v1.1.zip__8.txt",
+      "sha1": "285dfd70dc1cbaad77183c959d4d157fd343b541",
+      "size": 60
+    },
+    {
+      "path": "shaderpacks/CyanideShaders_v1.1.zip__9.txt",
       "sha1": "b356eddd12f584c7c7074166b81c75fba9c0d60c",
       "size": 57
     },
@@ -563,6 +618,11 @@
       "size": 50
     },
     {
+      "path": "shaderpacks/Noble+v1.5.0.zip__5.txt",
+      "sha1": "fb91cae7c82e961d29618db5806fe928b87abd3c",
+      "size": 50
+    },
+    {
       "path": "shaderpacks/Phoxel Beta 0.6 Prerelease 1.zip",
       "sha1": "6ad68446fcdac62c056bb2427a29948cac70e73c",
       "size": 25563
@@ -608,6 +668,16 @@
       "size": 344
     },
     {
+      "path": "shaderpacks/RedHat_v34.0.zip__8.txt",
+      "sha1": "9ea7198c4728b45d335bc52f5afb980a7ddaa670",
+      "size": 317
+    },
+    {
+      "path": "shaderpacks/RedHat_v34.0.zip__9.txt",
+      "sha1": "6d0e03ea5e2120b29ad979a94133eb7af6cb21c1",
+      "size": 344
+    },
+    {
       "path": "shaderpacks/RenderPearl v2.2.0.zip",
       "sha1": "ad6df4fdb84a45fef08341a7e5cb8864295b0e11",
       "size": 617606
@@ -648,6 +718,11 @@
       "size": 246
     },
     {
+      "path": "shaderpacks/SEUS PTGI HRR Test 2.1.zip__5.txt",
+      "sha1": "2082b4315a5d168cfc7792823002734e22a66736",
+      "size": 246
+    },
+    {
       "path": "shaderpacks/SEUS PTGI HRR Test 2.zip",
       "sha1": "9c6b6bf8e50f414682564551d091a2043e692880",
       "size": 4402216
@@ -684,6 +759,11 @@
     },
     {
       "path": "shaderpacks/Shrimple-main.zip__4.txt",
+      "sha1": "7ba6211f0d5b0b35506a5060e045440753df75d1",
+      "size": 434
+    },
+    {
+      "path": "shaderpacks/Shrimple-main.zip__5.txt",
       "sha1": "7ba6211f0d5b0b35506a5060e045440753df75d1",
       "size": 434
     },
@@ -768,6 +848,16 @@
       "size": 125
     },
     {
+      "path": "shaderpacks/SoftVoxelsLite_v2.0.zip__8.txt",
+      "sha1": "d9713fe013a63ce3cb6e2d659c789948d88bca72",
+      "size": 125
+    },
+    {
+      "path": "shaderpacks/SoftVoxelsLite_v2.0.zip__9.txt",
+      "sha1": "7ba64134ba3b98ef05adcaf4d480ea8bcc8565ff",
+      "size": 125
+    },
+    {
       "path": "shaderpacks/Solas.zip",
       "sha1": "3ee46a22dc3b5965c70b2d56c44f0c6598f5fee7",
       "size": 1180196
@@ -794,6 +884,11 @@
     },
     {
       "path": "shaderpacks/Tea_V2.0.0_Dev2.zip__4.txt",
+      "sha1": "109897a9ea374be03a10586550bda92b3c822dad",
+      "size": 85
+    },
+    {
+      "path": "shaderpacks/Tea_V2.0.0_Dev2.zip__5.txt",
       "sha1": "109897a9ea374be03a10586550bda92b3c822dad",
       "size": 85
     },
@@ -839,6 +934,16 @@
     },
     {
       "path": "shaderpacks/VanillaPlus_v3.3.zip__7.txt",
+      "sha1": "7a4b031c6363505b75525a7c984976934e5ea541",
+      "size": 97
+    },
+    {
+      "path": "shaderpacks/VanillaPlus_v3.3.zip__8.txt",
+      "sha1": "39fc0fac4134d81b18869f1151acba234975996e",
+      "size": 97
+    },
+    {
+      "path": "shaderpacks/VanillaPlus_v3.3.zip__9.txt",
       "sha1": "7a4b031c6363505b75525a7c984976934e5ea541",
       "size": 97
     },
