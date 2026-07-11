@@ -123,11 +123,6 @@
       "size": 58
     },
     {
-      "path": "config/nemos_inventory_sorting-client.toml",
-      "sha1": "0077a3ec0d69bca95ed60be0ee5c88b6f9bdd700",
-      "size": 171
-    },
-    {
       "path": "shaderpacks/BSL_v10.0p1.zip",
       "sha1": "08bb71c74141196af830d6d7bfc3f0da28467dd1",
       "size": 1121557
