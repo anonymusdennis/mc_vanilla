@@ -1,0 +1,10 @@
+{
+  "showSortButton": true,
+  "showTooltips": false,
+  "separateButton": false,
+  "sortPlayerInventory": true,
+  "enableDoubleClickSort": false,
+  "sortIntoBundles": false,
+  "sortIntoHotbarBundles": false,
+  "sortHighlightedItem": false
+}

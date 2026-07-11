@@ -1,0 +1,6 @@
+# Minimal inventory sort — button only, no hotkeys
+[general]
+enableMiddleClickSort = false
+enableDoubleClickSort = false
+enableKeybindSort = false
+showSortButton = true

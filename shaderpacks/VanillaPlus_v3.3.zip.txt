@@ -1,0 +1,4 @@
+#Fri Dec 19 18:36:10 CET 2025
+UseLightleakPrevention=true
+brightnessInt=0.5
+ssaoEnabled=true

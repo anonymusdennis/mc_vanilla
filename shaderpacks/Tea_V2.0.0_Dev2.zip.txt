@@ -1,0 +1,4 @@
+#Sat Nov 01 14:50:43 CET 2025
+ndeSat=30.0
+CELSHADING=true
+NightDarknessLevel=1.0

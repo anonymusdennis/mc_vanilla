@@ -1,0 +1,5 @@
+#Fri Sep 15 20:04:33 CEST 2023
+CLOUD_PLANE0_ENABLED=false
+motionblurToggle=false
+SSPT_Enabled=false
+godraysEnabled=false

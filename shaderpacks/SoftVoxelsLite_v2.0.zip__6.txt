@@ -1,0 +1,5 @@
+#Sat Nov 08 14:44:10 CET 2025
+CLOUD_PLANE0_ENABLED=false
+motionblurToggle=false
+SSPT_Enabled=false
+godraysEnabled=false

@@ -1,0 +1,54 @@
+2025-11-07 10:45:57 [ERROR] EuphoriaPatcher: You need to have ComplementaryShaders_r5.6.1 installed!
+2025-11-07 10:45:57 [ERROR] EuphoriaPatcher: Please download it from https://www.complementary.dev/ and place it into your shaderpacks folder.
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2025-11-07 14:48:59 [ERROR] EuphoriaPatcher: You need to have ComplementaryShaders_r5.6.1 installed!
+2025-11-07 14:48:59 [ERROR] EuphoriaPatcher: Please download it from https://www.complementary.dev/ and place it into your shaderpacks folder.
+2025-11-07 15:42:02 [ERROR] EuphoriaPatcher: The Bliss-Shader-main.zip shaderpack which just got added did not pass the byte size verification for ComplementaryShaders_r5.6.1. It may be an incorrect version or modified.
+2025-11-07 15:42:02 [ERROR] EuphoriaPatcher: Please download the correct and official version from https://www.complementary.dev/
+2025-11-07 15:42:06 [ERROR] EuphoriaPatcher: The Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip shaderpack which just got added did not pass the byte size verification for ComplementaryShaders_r5.6.1. It may be an incorrect version or modified.
+2025-11-07 15:42:06 [ERROR] EuphoriaPatcher: Please download the correct and official version from https://www.complementary.dev/
+2025-11-07 15:42:12 [ERROR] EuphoriaPatcher: The Complementary Reimagined.zip shaderpack which just got added did not pass the byte size verification for ComplementaryShaders_r5.6.1. It may be an incorrect version or modified.
+2025-11-07 15:42:12 [ERROR] EuphoriaPatcher: Please download the correct and official version from https://www.complementary.dev/
+2025-11-07 15:42:17 [ERROR] EuphoriaPatcher: The ComplementaryReimagined_r2.3.zip shaderpack which just got added did not pass the byte size verification for ComplementaryShaders_r5.6.1. It may be an incorrect version or modified.
+2025-11-07 15:42:17 [ERROR] EuphoriaPatcher: Please download the correct and official version from https://www.complementary.dev/
+2025-11-07 15:42:24 [ERROR] EuphoriaPatcher: The ComplementaryShaders_v4.0.2.zip shaderpack which just got added did not pass the byte size verification for ComplementaryShaders_r5.6.1. It may be an incorrect version or modified.
+2025-11-07 15:42:24 [ERROR] EuphoriaPatcher: Please download the correct and official version from https://www.complementary.dev/
+2025-11-07 15:42:29 [ERROR] EuphoriaPatcher: The ComplementaryShaders_v4.7.2.zip shaderpack which just got added did not pass the byte size verification for ComplementaryShaders_r5.6.1. It may be an incorrect version or modified.
+2025-11-07 15:42:29 [ERROR] EuphoriaPatcher: Please download the correct and official version from https://www.complementary.dev/
+2025-11-07 15:42:38 [ERROR] EuphoriaPatcher: The continuum-2.0.5.zip shaderpack which just got added did not pass the byte size verification for ComplementaryShaders_r5.6.1. It may be an incorrect version or modified.
+2025-11-07 15:42:38 [ERROR] EuphoriaPatcher: Please download the correct and official version from https://www.complementary.dev/
+2025-11-07 15:42:45 [ERROR] EuphoriaPatcher: The Glimmer-v1.3.3.zip shaderpack which just got added did not pass the byte size verification for ComplementaryShaders_r5.6.1. It may be an incorrect version or modified.
+2025-11-07 15:42:45 [ERROR] EuphoriaPatcher: Please download the correct and official version from https://www.complementary.dev/
+2025-11-07 15:42:50 [ERROR] EuphoriaPatcher: The MakeUp-UltraFast-8.9b.zip shaderpack which just got added did not pass the byte size verification for ComplementaryShaders_r5.6.1. It may be an incorrect version or modified.
+2025-11-07 15:42:50 [ERROR] EuphoriaPatcher: Please download the correct and official version from https://www.complementary.dev/
+2025-11-07 15:43:01 [ERROR] EuphoriaPatcher: The Rethinking Voxels.zip shaderpack which just got added did not pass the byte size verification for ComplementaryShaders_r5.6.1. It may be an incorrect version or modified.
+2025-11-07 15:43:01 [ERROR] EuphoriaPatcher: Please download the correct and official version from https://www.complementary.dev/
+2025-11-07 15:43:06 [ERROR] EuphoriaPatcher: The rethinking-voxels_r0.1-beta9 (1).zip shaderpack which just got added did not pass the byte size verification for ComplementaryShaders_r5.6.1. It may be an incorrect version or modified.
+2025-11-07 15:43:06 [ERROR] EuphoriaPatcher: Please download the correct and official version from https://www.complementary.dev/
+2025-11-07 15:43:11 [ERROR] EuphoriaPatcher: The SEUS PTGI HRR Test 2.1.zip shaderpack which just got added did not pass the byte size verification for ComplementaryShaders_r5.6.1. It may be an incorrect version or modified.
+2025-11-07 15:43:11 [ERROR] EuphoriaPatcher: Please download the correct and official version from https://www.complementary.dev/
+2025-11-07 15:43:19 [ERROR] EuphoriaPatcher: The Shrimple-main.zip shaderpack which just got added did not pass the byte size verification for ComplementaryShaders_r5.6.1. It may be an incorrect version or modified.
+2025-11-07 15:43:19 [ERROR] EuphoriaPatcher: Please download the correct and official version from https://www.complementary.dev/
+2025-11-07 15:43:24 [ERROR] EuphoriaPatcher: The Shrimple_v0.12.zip shaderpack which just got added did not pass the byte size verification for ComplementaryShaders_r5.6.1. It may be an incorrect version or modified.
+2025-11-07 15:43:24 [ERROR] EuphoriaPatcher: Please download the correct and official version from https://www.complementary.dev/
+2025-11-07 15:43:29 [ERROR] EuphoriaPatcher: The Sildur's Vibrant Shaders v1.51 Extreme.zip shaderpack which just got added did not pass the byte size verification for ComplementaryShaders_r5.6.1. It may be an incorrect version or modified.
+2025-11-07 15:43:29 [ERROR] EuphoriaPatcher: Please download the correct and official version from https://www.complementary.dev/
+2025-11-07 15:43:40 [ERROR] EuphoriaPatcher: The Tea_V2.0.0_Dev2.zip shaderpack which just got added did not pass the byte size verification for ComplementaryShaders_r5.6.1. It may be an incorrect version or modified.
+2025-11-07 15:43:40 [ERROR] EuphoriaPatcher: Please download the correct and official version from https://www.complementary.dev/
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2025-11-07 16:46:21 [ERROR] EuphoriaPatcher: You need to have ComplementaryShaders_r5.6.1 installed!
+2025-11-07 16:46:21 [ERROR] EuphoriaPatcher: Found older version: ComplementaryReimagined_r5.5.1.zip
+2025-11-07 16:46:21 [ERROR] EuphoriaPatcher: Please update to specifically ComplementaryShaders_r5.6.1 from https://www.complementary.dev/ and place it into your shaderpacks folder.
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2025-11-08 12:15:35 [ERROR] EuphoriaPatcher: You need to have ComplementaryShaders_r5.6.1 installed!
+2025-11-08 12:15:35 [ERROR] EuphoriaPatcher: Found older version: ComplementaryReimagined_r5.5.1.zip
+2025-11-08 12:15:35 [ERROR] EuphoriaPatcher: Please update to specifically ComplementaryShaders_r5.6.1 from https://www.complementary.dev/ and place it into your shaderpacks folder.

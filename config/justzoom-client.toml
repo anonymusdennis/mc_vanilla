@@ -1,0 +1,3 @@
+[general]
+# Hold key to zoom (default C)
+zoomFactor = 4.0

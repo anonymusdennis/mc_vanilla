@@ -13,7 +13,7 @@ def git_blob_sha1(data: bytes) -> str:
     return hashlib.sha1(header + data).hexdigest()
 
 files = []
-for folder in ("mods", "config", "defaultconfigs"):
+for folder in ("mods", "config", "defaultconfigs", "shaderpacks"):
     p = Path(folder)
     if not p.exists():
         continue
