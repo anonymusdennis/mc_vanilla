@@ -21,6 +21,7 @@ Push changes here; players with PackSync installed see a diff on game start and 
 | **Recipes** | JEI + WorldGen, Trades, Professions, Serverless Recipes |
 | **Claims UI** | Open Parties and Claims (optional map overlay) |
 | **LOD** | Distant Horizons (match server) |
+| **Voice** | Plasmo Voice (proximity voice chat) |
 | **Perf** | FerriteCore |
 | **Updater** | PackSync |
 
@@ -56,4 +57,7 @@ Patched from upstream 1.21.4 for MC 26.2 (`scripts/patch-quickstack-26.2.sh`). *
 
 ## Server
 
-Connect to `178.104.221.45:25566` — server runs Tectonic and server-side mods; clients do not need them.
+- **Java:** `mmc.rip`
+- **Bedrock:** `mmc.rip` (default port)
+
+The server runs its own server-side mods; clients do not need them. Vanilla clients can join without this pack — it is optional QoL.
